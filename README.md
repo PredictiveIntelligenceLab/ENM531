@@ -35,7 +35,7 @@ Students will leave this course with experience in:
 
 Please consult the TA regarding issues related to setting up your computing environment, code design, implementation, and execution.
 
-TAs: Yibo Yang,  Office Hours: TBA, Email: <ybyang@seas.upenn.edu>, Hanwen Wang,  Office Hours: TBA, Email: <wangh19@sas.upenn.edu>
+TAs: Yibo Yang,  Office Hours: Mondays, 1-3pm, Email: <ybyang@seas.upenn.edu>, Hanwen Wang,  Office Hours: Wednesdays, 10am-12pm, Email: <wangh19@sas.upenn.edu>
 
 
 ### Note
